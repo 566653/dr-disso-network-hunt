@@ -1,0 +1,11 @@
+[
+  {
+    "id": "synthetic-001",
+    "beaconing": true,
+    "exfiltration": true
+  },
+  {
+    "id": "synthetic-002",
+    "note": "benign"
+  }
+]

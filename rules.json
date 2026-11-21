@@ -1,0 +1,30 @@
+[
+  {
+    "id": "beaconing",
+    "field": "beaconing",
+    "equals": true,
+    "score": 50,
+    "reason": "beaconing"
+  },
+  {
+    "id": "exfiltration",
+    "field": "exfiltration",
+    "equals": true,
+    "score": 75,
+    "reason": "exfiltration"
+  },
+  {
+    "id": "dns_tunnel",
+    "field": "dns_tunnel",
+    "equals": true,
+    "score": 65,
+    "reason": "dns tunnel"
+  },
+  {
+    "id": "unusual_port",
+    "field": "unusual_port",
+    "equals": true,
+    "score": 25,
+    "reason": "unusual port"
+  }
+]
